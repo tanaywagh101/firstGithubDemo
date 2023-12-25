@@ -1,2 +1,3 @@
 # firstGithubDemo
-I am using this repository for learning github
+I am using this repository for learning github.
+This is first time I am doing changes in my first github repository.
